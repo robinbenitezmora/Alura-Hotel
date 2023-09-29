@@ -8,55 +8,56 @@
 ## This repository is part of the Alura Challenges program, an initiative that aims to help you boost your career as a developer, regardless of your level. 🚀
 </br>
 
-## 🖥️ Tecnologías Utilizadas:
+## 🖥️ Technologies used
 
 - Java
 - Eclipse
 - Biblioteca JCalendar
 - MySql
 - Plugin WindowBuilder
-- Biblioteca C3PO para crear Pool de conexiones
+- Library CPO3
  </br>
 
 ---
-## ⚠️ Importante! ⚠️
+## ⚠️ Important! ⚠️
 
-☕ Use Java versión 8 o superior para compatibilidad. </br></br>
-📝 Recomendamos usar el editor de Eclipse para compatibilidad con la Interfaz Gráfica. </br></br>
-🎨 La interfaz contiene dos métodos importantes:
-- setResizable(false): determina el tamaño de la ventana, y a través del parámetro <strong>false</strong>, la pantalla no se puede maximizar;
-- setLocationRelativeTo(null): determina la ubicación de la ventana, y a través del parámetro <strong>null</strong> la mantiene centrada en la pantalla.
+☕ Use Java version to work </br></br>
+📝 We recommend using the Eclipse editor for compatibility with the Graphical Interface. </br></br>
+We recommend using the Eclipse editor for compatibility with the Graphical Interface. </br></br>
+The interfaz has two important methods:
+- setResizable (false): determines the size of the window, and through the <strong> false </strong> parameter, the screen cannot be maximized;
+- setLocationRelativeTo (null): determines the location of the window, and through the <strong> null </strong> parameter it keeps it centered on the screen.
 
-#### Para este desafío, concéntrate en la parte lógica y la conexión con la base de datos, después de completar el desafío, siéntate libre de agregar nuevas funciones y modificar la interfaz gráfica.
+#### For this challenge, stay concentrate in logical and the database conection, after complete the challenge, feel free to add new functions and modify the graphic interface. 🎨
 ---
 
-## Videos de solución 
-Para ayudarte aún más en esta jornada de aprendizaje hemos creado estos videos de solución con las partes estratégicas para la realización de este desafío. Recuerda que esta es solo una de las infinitas formas de llevar a cabo el desafío, aprovechen para estudiar los códigos y también compartan entre ustedes sus resoluciones y opiniones acerca de su proyecto.
+## Solution Videos
+In order to help you even more in this learning journey, we have created these solution videos with the strategic parts for the completion of this challenge. Remember that this is just one of the infinite ways to carry out the challenge, take advantage of studying the codes and also share your resolutions and opinions about your project.
 
-- [Realiza una conexión a la base de datos e guarda tus registros](https://www.youtube.com/watch?v=1luEBNCweG4)
-- [Muestra los registros a través de la aplicación](https://youtu.be/8y5fqKVfDWU)
-
-
-## 📬 Entrega
-
-### ¿Cómo incluir mi proyecto con el "#" del desafío?
-
-1) Ten el <strong>Fork</strong> del proyecto en tu repositorio en Github.
-2) Utilize el topico **#challengeonehotelaluralatam4** </br>
-3) Ve a la pestaña derecha de tu proyecto y haz clic en el engranaje de configuración en la sección <em>About</em>, seleccione el campo **topics** e inserte la etiqueta **challengeonehotelaluralatam4**
+- [Execute the database conection](https://www.youtube.com/watch?v=1luEBNCweG4)
+- [Show up the data through the application](https://youtu.be/8y5fqKVfDWU)
 
 
-### ¿Cómo hago la entrega final de mi Proyecto?
+## 📬 Delivery
 
-4) Rellena el siguiente formulario con tus datos personales, junto con el enlace de tu repositorio. 🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-entrega-challenge-one-esp-back-end)
+### ¿How can I include my project in the challenge?
+
+1) Took the <strong>Fork</strong>  of the project in your Github repository.
+2) Use the topic: **#challengeonehotelaluralatam4** </br>
+3) Go the the right field in your project and click in the configuration gear of the section <em>About</em>, select the field **topics** and insert the tag **challengeonehotelaluralatam4**
+
+
+### ¿How can I prove that I completed the challenge?
+
+4) Fill out the field 🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-entrega-challenge-one-esp-back-end)
 
 <p align="center" >
      <img width="700" heigth="700" src="https://user-images.githubusercontent.com/53662778/225654748-b9ee1a2c-5b9d-4723-a787-192c65f296ae.png">
 </p>
 
-5) Ve a tu correo electrónico y canjea tu insignia obtenida al completar otro desafío del Proyecto ONE! 🏆
+5) Go to the email and commit the changes 🏆
 
-6) ¡No olvides poner un enlace o video de tu proyecto en Linkedin! Etiqueta a #Oracle y #AluraLatam 🏁
+6) Do not forget to put a link or video of your project in Linkedin! Tag #Oracle and #AluraLatam 🏁
 
 🧡 <strong>Oracle</strong></br>
 <a href="https://www.linkedin.com/company/oracle/" target="_blank">
